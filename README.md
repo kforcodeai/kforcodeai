@@ -60,7 +60,9 @@ Infra & Data      AWS · GCP · Azure · Docker · Kubernetes · Postgres · Red
 I write about building production AI systems — runtimes, agent harnesses, evals, and applied LLM engineering — at **[kforcodeai.github.io](https://kforcodeai.github.io)**.
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Latest posts auto-update here via GitHub Actions -->
+- [The system layer behind AI products: what an agent runtime actually does](https://kforcodeai.github.io/blog/the-system-layer-behind-ai-products/)
+- [From 86% to 97%: engineering evidence retrieval for compliance agents](https://kforcodeai.github.io/blog/evidence-retrieval-86-to-97/)
+- [One model instead of 23: consolidating a Document AI stack](https://kforcodeai.github.io/blog/one-model-instead-of-23/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
