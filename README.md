@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kforcodeai.github.io">Blog</a> ·
+  <a href="https://kforcode.dev">Blog</a> ·
   <a href="https://www.linkedin.com/in/kforcode/">LinkedIn</a> ·
   <a href="mailto:kaushalcse07@gmail.com">Email</a> ·
   <a href="https://aclanthology.org/2024.emnlp-main.1198/">Publications</a>
@@ -57,7 +57,7 @@ Infra & Data      AWS · GCP · Azure · Docker · Kubernetes · Postgres · Red
 
 ### ✍️ Writing
 
-I write about building production AI systems — runtimes, agent harnesses, evals, and applied LLM engineering — at **[kforcodeai.github.io](https://kforcodeai.github.io)**.
+I write about building production AI systems — runtimes, agent harnesses, evals, and applied LLM engineering — at **[kforcode.dev](https://kforcode.dev)**.
 
 <!-- BLOG-POST-LIST:START -->
 - [The system layer behind AI products: what an agent runtime actually does](https://kforcodeai.github.io/blog/the-system-layer-behind-ai-products/)

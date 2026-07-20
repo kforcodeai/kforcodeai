@@ -16,6 +16,6 @@ jobs:
       - name: Pull latest posts from blog RSS
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://kforcodeai.github.io/rss.xml'
+          feed_list: 'https://kforcode.dev/rss.xml'
           max_post_count: 5
           commit_message: 'chore: sync latest blog posts'
