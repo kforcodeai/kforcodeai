@@ -60,11 +60,11 @@ Infra & Data      AWS · GCP · Azure · Docker · Kubernetes · Postgres · Red
 I write about building production AI systems — runtimes, agent harnesses, evals, and applied LLM engineering — at **[kforcode.dev](https://kforcode.dev)**.
 
 <!-- BLOG-POST-LIST:START -->
+- [Open model accuracy is a harness problem](https://kforcode.dev/blog/open-model-accuracy/)
 - [hermes-agent architecture: caching outranks compaction](https://kforcode.dev/blog/hermes-agent-architecture/)
 - [hermes-agent internals, one component at a time](https://kforcode.dev/blog/hermes-agent-internals/)
 - [The system layer behind AI products: what an agent runtime actually does](https://kforcode.dev/blog/the-system-layer-behind-ai-products/)
 - [From 86% to 97%: engineering evidence retrieval for compliance agents](https://kforcode.dev/blog/evidence-retrieval-86-to-97/)
-- [One model instead of 23: consolidating a Document AI stack](https://kforcode.dev/blog/one-model-instead-of-23/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
